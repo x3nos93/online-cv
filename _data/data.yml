@@ -38,10 +38,11 @@ sidebar:
       - item: Camping
         link:
 
-  career-profile:
+career-profile:
     title: Career Profile
-    summary: 23 year IT veteran seeking contract and remote webmastering gigs.
-    
+    summary: |
+      23 year IT veteran seeking contract and remote work opportunities in webmastering and web development. 
+      
   education:
     - degree: Certificate in Web Design
       university: Kaiser Career College
