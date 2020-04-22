@@ -55,6 +55,10 @@ career-profile:
       details: |
 
 experiences:
+    - role: Freelancer
+      time 2019-Present
+      company: self-employed
+      details: Working to build clientele and customer base in Helena Montana for Web Development and IT Services.
     - role: IT Technician
       time: 2019 - 2019
       company: ProPharma Group, Bozeman, MT
