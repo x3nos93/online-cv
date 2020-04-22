@@ -67,68 +67,57 @@ experiences:
     - role: IT Administrator
       time: 2018 - 2019
       company: CETECOM, Milpitas, CA
-      details: |
-      Administrator for medium sized independent mobile device test laboratory. Responsible for both network and perimiter security.
+      details: Administrator for medium sized independent mobile device test laboratory. Responsible for both network and perimiter security.
 
     - role: TechOps
       time: 2017 - 2017
       company: New Context, San Francisco, CA
-      details: |
-      Technical Operations for DevOps shop. Responsible to CEO and VPs for continuos technical delivery.
+      details: Technical Operations for DevOps shop. Responsible to CEO and VPs for continuos technical delivery.
 
     - role: Response Center Engineer
       time: 2016 - 2017
       company: Endsight, Berkeley, CA
-      details: |
-      Remote enabled IT Support Engineer with small outfit in Berkeley. Top ticket closer and excelled in customer service.
+      details: Remote enabled IT Support Engineer with small outfit in Berkeley. Top ticket closer and excelled in customer service.
 
     - role: Information Specialist
       time: 2015 - 2016
       company: Billings Public Schools, Billings, MT
-      details: |
-      Retooled manual processes to automate many common and repetitive tasks using Excel Formula and macros. Wrote several batch files for the parsing and manipulation of data sets.
+      details: Retooled manual processes to automate many common and repetitive tasks using Excel Formula and macros. Wrote several batch files for the parsing and manipulation of data sets.
 
     - role: Systems Administrator
       time: 2012 - 2014
       company: CETECOM, Milpitas, CA
-      details: |
-      Worked with IT Director and CEO to streamline and scale support desk operations in Milpitas California.
+      details: Worked with IT Director and CEO to streamline and scale support desk operations in Milpitas California.
 
     - role: IT Consultant
       time: 2007 - 2011
       company: PlanetMagpie, Campbell, CA
-      details: |
-      Served several different functions within a team of skilled and seasoned consultants.  Worked excessively with Microsoft Active Directory Services and Exchange Server.
+      details: Served several different functions within a team of skilled and seasoned consultants.  Worked excessively with Microsoft Active Directory Services and Exchange Server.
 
     - role: Front End Developer
       time: 2005 - 2006
       company: Heel USA, Albuquerque, NM
-      details: |
-      Developed, Designed and Implemented employee store and many customizations to company SharePoint website.
+      details: Developed, Designed and Implemented employee store and many customizations to company SharePoint website.
 
     - role: IT Manager
       time: 2004 - 2005
       company: PlanetMagpie, Campbell, CA
-      details: |
-      Managed two small teams, one a crack IT support team and secondly, an innovative web design team.
+      details: Managed two small teams, one a crack IT support team and secondly, an innovative web design team.
 
     - role: Webmaster
       time: 2002 - 2004
       company: Support Systems Homes, San Jose, CA
-      details: |
-      Built and maintained a website for a local drug and alcohol rehabilitation center in San Jose, CA
+      details: Built and maintained a website for a local drug and alcohol rehabilitation center in San Jose, CA
 
     - role: Webmaster
       time: 2000 - 2002
       company: New Context, Watsonville, CA
-      details: |
-      Built and maintained a website for a local non profit.  Also, Implemented early SEO strategies that led to a 230% increase in business objective completion.
+      details: Built and maintained a website for a local non profit.  Also, Implemented early SEO strategies that led to a 230% increase in business objective completion.
 
     - role: Database Administrator
       time: 1998 - 1999
       company: Halifax Humane Society, Daytona Beach, FL
-      details: |
-      Managed and streamlined database of members for the large HHS, a subsidary of the Humane Society of the United States.
+      details: Managed and streamlined database of members for the large HHS, a subsidary of the Humane Society of the United States.
 
 skills:
     title: Skills &amp; Proficiency
