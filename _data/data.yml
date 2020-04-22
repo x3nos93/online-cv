@@ -119,13 +119,13 @@ skills:
         level: 15%
 
       - name: Javascript
-        level: 85%
+        level: 50%
 
       - name: HTML5 & CSS
-        level: 100%
-
-      - name: Ruby on Rails
         level: 85%
+
+      - name: Ruby
+        level: 50%
 
       - name: Photoshop
         level: 85%
