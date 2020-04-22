@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: 0x3nos@protonmail.com
-    phone: 
+    phone:
     website: x3nos93.github.io/online-cv/ #do not add http://
     linkedin: willpritchard
     github: x3nos93
@@ -47,7 +47,7 @@ career-profile:
       teams in a local and virtual environment.  I have always been a hobbyist
       in web design and development but now seek to make that a career.
 education:
-    - degree: Certificate in Web Development
+    - degree: Certificate in Web Design
       university: Kaiser Career College
       time: 1996 - 1997
       details: |
@@ -58,33 +58,66 @@ education:
       details: |
 
 experiences:
-    - role: HelpDesk Technician
+    - role: IT Technician
       time: 2019 - 2019
       company: ProPharma Group, Bozeman, MT
       details: |
-        Did some epic shit
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+
+    - role: IT Administrator
+      time: 2018 - 2019
+      company: CETECOM, Milpitas, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
+
+    - role: TechOps
+      time: 2017 - 2017
+      company: New Context, San Francisco, CA
+      details: |
+
+    - role: Response Center Engineer
+      time: 2016 - 2017
+      company: Endsight, Berkeley, CA
+      details: |
+
+    - role: Information Specialist
+      time: 2015 - 2016
+      company: Billings Public Schools, Billings, MT
+      details: |
+
+    - role: Systems Administrator
       time: 2012 - 2014
-      company: Amazon, London
+      company: CETECOM, Milpitas, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
+    - role: IT Consultant
+      time: 2007 - 2011
+      company: PlanetMagpie, Campbell, CA
+      details: |
+
+    - role: Front End Developer
+      time: 2005 - 2006
+      company: Heel USA, Albuquerque, NM
+      details: |
+
+    - role: IT Manager
+      time: 2004 - 2005
+      company: PlanetMagpie, Campbell, CA
+      details: |
+
+    - role: Webmaster
+      time: 2002 - 2004
+      company: Support Systems Homes, San Jose, CA
+      details: |
+
+    - role: Webmaster
+      time: 2000 - 2002
+      company: New Context, San Francisco, CA
+      details: |
+
+    - role: Database Administrator
+      time: 1998 - 1999
+      company: Halifax Humane Society, Daytona Beach, FL
+      details: |
+      
 projects:
     title: Projects
     intro: >
