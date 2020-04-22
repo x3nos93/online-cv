@@ -2,7 +2,7 @@
 
 # Site Settings
 title: My Resume
-url: 'https://x3nos93.github.io/online-cv/'
+url: 'https://x3nos93.github.io'
 baseurl: '/online-cv' #change it according to your repository name
 description: CV of William Pritchard, Webmaster
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
