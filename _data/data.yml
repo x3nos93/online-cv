@@ -41,16 +41,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Twenty-three year IT veteran seeking to work in remote and contract opportunities.
-education:
+      23 year IT veteran seeking contract and remote work opportunities in webmastering and web development.
+
+  education:
     - degree: Certificate in Web Design
       university: Kaiser Career College
       time: 1996 - 1997
       details: |
+
     - degree: Non-Degree Theatre Arts
       university: North Lake Community College
       time: 1995 - 1996
       details: |
+
 experiences:
     - role: IT Technician
       time: 2019 - 2019
@@ -119,15 +122,24 @@ skills:
         level: 15%
 
       - name: Javascript
-        level: 65%
+        level: 85%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 100%
 
-      - name: Ruby
-        level: 35%
+      - name: Ruby on Rails
+        level: 85%
 
       - name: Photoshop
+        level: 85%
+
+      - name: Windows Server
+        level: 95%
+
+      - name: Linux Server
+        level: 85%
+
+      - name: macOS
         level: 85%
 
 footer: >
