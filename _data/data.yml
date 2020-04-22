@@ -1,5 +1,8 @@
 #
+# ----------------------------------------------------------------------------
 # Be aware that even a small syntax error here can lead to failures in output.
+# ----------------------------------------------------------------------------
+#      Go to https://codebeautify.org/yaml-validator to validate YAML
 #
 
 sidebar:
@@ -43,7 +46,7 @@ career-profile:
     summary: |
       23 year IT veteran seeking contract and remote work opportunities in webmastering and web development.
 
-  education:
+education:
     - degree: Certificate in Web Design
       university: Kaiser Career College
       time: 1996 - 1997
@@ -131,8 +134,8 @@ skills:
       - name: HTML5 & CSS
         level: 100%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Ruby
+        level: 50%
 
       - name: Photoshop
         level: 85%
