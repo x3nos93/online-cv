@@ -40,13 +40,9 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      For 23 years I have worked in Systems Administration and Help Desk
-      Support. I am currently returning to my chosen career field, Web
-      Development. I have several years experience managing Web Development
-      teams in a local and virtual environment.  I have always been a hobbyist
-      in web design and development but now seek to make that a career.
-education:
+    summary: 23 year IT veteran seeking contract and remote webmastering gigs.
+    
+  education:
     - degree: Certificate in Web Design
       university: Kaiser Career College
       time: 1996 - 1997
