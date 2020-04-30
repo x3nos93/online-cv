@@ -31,3 +31,22 @@
   {% endif %}
 
 </div><!--//sidebar-wrapper-->
+<!--
+    PeoplePerHour Profile Widget
+    The div#pph-hire me is the element
+    where the iframe will be inserted.
+    You may move this element wherever
+    you need to display the widget
+-->
+<center>
+<div id="pph-hireme"></div>
+<script type="text/javascript">
+(function(d, s) {
+    var useSSL = 'https:' == document.location.protocol;
+    var js, where = d.getElementsByTagName(s)[0],
+    js = d.createElement(s);
+    js.src = (useSSL ? 'https:' : 'http:') +  '//www.peopleperhour.com/hire/2069328947/4136845.js?width=200&height=215&orientation=vertical&theme=dark&hourlies=645923&rnd='+parseInt(Math.random()*10000, 10);
+    try { where.parentNode.insertBefore(js, where); } catch (e) { if (typeof console !== 'undefined' && console.log && e.stack) { console.log(e.stack); } }
+}(document, 'script'));
+</script>
+</center>
